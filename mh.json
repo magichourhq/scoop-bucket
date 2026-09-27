@@ -1,16 +1,16 @@
 {
-  "version": "0.0.0-alpha.4",
+  "version": "0.0.1",
   "description": "Magic Hour command-line tool",
   "homepage": "https://github.com/magichourhq/magic-hour-cli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/magichourhq/magic-hour-cli/releases/download/v0.0.0-alpha.4/mh_0.0.0-alpha.4_windows_amd64.zip",
-      "hash": "1d70201f01e76cec020406adf41554a160a456bdc6ac2ea6071552f6d19e4f7e"
+      "url": "https://github.com/magichourhq/magic-hour-cli/releases/download/v0.0.1/mh_0.0.1_windows_amd64.zip",
+      "hash": "626e362f3e289cbff7e71e2c2940548e7f21df50daf20446c8100e35e3f2afc8"
     },
     "arm64": {
-      "url": "https://github.com/magichourhq/magic-hour-cli/releases/download/v0.0.0-alpha.4/mh_0.0.0-alpha.4_windows_arm64.zip",
-      "hash": "dfce1c44c2589c59aa0d24f1323d22ac0a13b2a2914490171e7631d0b3b938b5"
+      "url": "https://github.com/magichourhq/magic-hour-cli/releases/download/v0.0.1/mh_0.0.1_windows_arm64.zip",
+      "hash": "e39b179cafbeebbc0bfa809b9df6c14c08c82d431712e52a4b3c5025924b13f7"
     }
   },
   "bin": "mh.exe"
