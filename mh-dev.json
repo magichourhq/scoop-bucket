@@ -1,16 +1,16 @@
 {
-  "version": "0.0.3-dev.3",
+  "version": "0.0.3-dev.4",
   "description": "Development builds of the Magic Hour command-line tool",
   "homepage": "https://github.com/magichourhq/magic-hour-cli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/magichourhq/magic-hour-cli/releases/download/v0.0.3-dev.3/mh_0.0.3-dev.3_windows_amd64.zip",
-      "hash": "c694c89dff8a40c3d33d81ac4ee04f15e9ce89ba51808d9203beabf6255255da"
+      "url": "https://github.com/magichourhq/magic-hour-cli/releases/download/v0.0.3-dev.4/mh_0.0.3-dev.4_windows_amd64.zip",
+      "hash": "6d05e7cebb75558ed2ce5a5723107dbb5deb98f8da1891323610e765faa52065"
     },
     "arm64": {
-      "url": "https://github.com/magichourhq/magic-hour-cli/releases/download/v0.0.3-dev.3/mh_0.0.3-dev.3_windows_arm64.zip",
-      "hash": "b83ce2cfe56bd2bbe9b416ed5b542c0930bd82719e165febda8a5b9bdafac3ad"
+      "url": "https://github.com/magichourhq/magic-hour-cli/releases/download/v0.0.3-dev.4/mh_0.0.3-dev.4_windows_arm64.zip",
+      "hash": "b4d3786f6f5365d7e848572e8f11854a92cd25b7e2335614d29d7c65415864fd"
     }
   },
   "pre_install": "Rename-Item (Join-Path $dir 'mh.exe') 'mh-dev.exe'",
